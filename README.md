@@ -1,1 +1,1 @@
-# querry
+# querry"# Django-Blog-folder" 
